@@ -77,7 +77,7 @@
     }
     
     .iframe-container iframe {
-      width: 100%;
+      width: 400px;
       height: 800px; /* or use min-height for flexibility */
       border: none;
     }
